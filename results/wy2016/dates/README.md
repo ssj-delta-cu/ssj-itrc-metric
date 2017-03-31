@@ -7,4 +7,3 @@ Following the lead of some of the landsat products, we suggest that you organize
 ## CSV Files.
 
 You can summarize your individual dates into csv files similar to those described in the above results directory.
-
