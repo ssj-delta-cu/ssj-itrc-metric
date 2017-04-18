@@ -8,6 +8,7 @@ You must supply ```ET.tif``` showing the average daily _ET_ for the Delta Servic
 
 Supplying any of the additional parameters, _Kc_, _H_, _G_, would be very helpful.  Again supply these as 12 band files.
 
-# CSV files
+# Files
 
-Any CSV files should be stored in the above directory.
+OR: original, uncorrected SpatialCIMIS data
+CO: ETc using the Corrected SpatialCIMIS data.
