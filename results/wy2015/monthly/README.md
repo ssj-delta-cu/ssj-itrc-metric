@@ -10,5 +10,5 @@ Supplying any of the additional parameters, _Kc_, _H_, _G_, would be very helpfu
 
 # Files
 
-OR = original, uncorrected SpatialCIMIS data
-CO = ETc using the Corrected SpatialCIMIS data 
+ - OR: original, uncorrected SpatialCIMIS data
+ - CO: ETc using the Corrected SpatialCIMIS data 
